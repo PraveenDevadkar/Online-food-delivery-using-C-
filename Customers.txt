@@ -1,0 +1,6 @@
+
+1   Harsha
+2   Praveen
+1   Harsha
+23   praveen
+100   akash

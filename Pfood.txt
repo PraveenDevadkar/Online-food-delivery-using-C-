@@ -1,0 +1,13 @@
+Beverages    coca-cola      20
+Beverages    pepsi          20
+Beverages    slice          20
+Beverages    maaza          20
+Beverages    lassi          20
+Breakfast    idli           25
+Breakfast    dosa           30
+Breakfast    poha           30
+Chineese     friedrice      55
+Chineese     gobi           60
+Dishes       daal           120
+Dishes       pulav          100
+Dishes       jeerarice      100
